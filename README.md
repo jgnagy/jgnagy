@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+“Juh-Neh-Gee” (or in [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet): “dʒ næ ɡiː”) 
+
+I'm a father, husband, science and technology enthusiast, IT nerd.
+
+I ❤️ #ruby #elixir #crystal #kubernetes #linux
+
+😄 Pronouns: [He/Him](https://pronouns.org/he-him)
+
+📫 How to reach me:
+* [My Blog](https://therubyist.org/)
+* [Twitter](https://twitter.com/jonathangnagy)
+* <a rel="me" href="https://ruby.social/@jgnagy">Mastodon</a>
+* [LinkedIn](https://www.linkedin.com/in/jonathangnagy/)
